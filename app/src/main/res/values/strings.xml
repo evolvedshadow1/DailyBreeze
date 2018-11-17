@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DailyBreeze</string>
+    <string name="error_title">Oof! Error!</string>
+    <string name="error_message">There was an error, Try again scrub.</string>
+    <string name="error_button_ok_text">OK</string>
+    <string name="network_unavailable_message">Gomenasai, the network is unavailable</string>
+    <string name="dark_sky_message"><a href="https://darksky.net/poweredby">Powered by Dark Sky</a></string>
+</resources>
